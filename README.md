@@ -6,6 +6,9 @@
 ![Screenshot (2044)](https://user-images.githubusercontent.com/86683029/197458238-f9c5878b-ff8e-452c-9cdd-48acc746d3ed.png)
 
 # Random-Choice-Picker
+![Screenshot (2045)](https://user-images.githubusercontent.com/86683029/197458348-b8069c4d-5990-4c56-9ec4-18ccc3709ca7.png)
+![Screenshot (2046)](https://user-images.githubusercontent.com/86683029/197458356-be306092-5ea9-439f-873f-d128af2db035.png)
+![Screenshot (2047)](https://user-images.githubusercontent.com/86683029/197458359-43c20652-0f82-499e-a926-a2b1e6f22a02.png)
 
 # Random-Image-Feed
 
