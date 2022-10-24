@@ -1,6 +1,9 @@
-# 50-Javascript-Projects-Part-08
-# quiz-app
-# random-choice-picker
-# random-image-feed
-# rotating-navigation
-# scroll animation
+# Quiz-App
+
+# Random-Choice-Picker
+
+# Random-Image-Feed
+
+# Rotating-Navigation
+
+# Scroll Animation
