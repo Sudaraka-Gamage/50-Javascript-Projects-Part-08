@@ -21,3 +21,6 @@
 ![Screenshot (2054)](https://user-images.githubusercontent.com/86683029/197458714-5fa3d397-3cde-4ddd-90bf-d0d8ae7ac074.png)
 
 # Scroll Animation
+![Screenshot (2055)](https://user-images.githubusercontent.com/86683029/197460004-525218a2-132e-4537-b11c-e6b42ce56d32.png)
+![Screenshot (2056)](https://user-images.githubusercontent.com/86683029/197460008-72f2a132-e162-489e-acac-e3970f90cfe8.png)
+![Screenshot (2057)](https://user-images.githubusercontent.com/86683029/197460013-d7c25036-cef1-4618-a2d2-b8e488d49825.png)
